@@ -31,7 +31,7 @@ dat_1 = [
     ("address problems (issues)", "문제를 해결하다"),
     ("meet a deadline", "마감 기한을 맞추다"),
     ("be known for", "~로 알려져 있다"),
-    ("take measures", "조치를 취하다, 대책을 강구하다")
+    ("take measures", "조치를 취하다, 대책을 강구하다"),
 ]
 
 dat_2 = [
@@ -65,7 +65,7 @@ dat_2 = [
     ("make sure that", "이하를 확실하게 하다"),
     ("be based in", "~에 기반을 두다 (장소)"),
     ("be based on", "~에 근거를 두다"),
-    ("comply with", "~을 따르다, 준수하다")
+    ("comply with", "~을 따르다, 준수하다"),
 ]
 
 dat_3 = [
@@ -99,7 +99,7 @@ dat_3 = [
     ("respond to", "~에 응답하다, 대응하다"),
     ("conveniently located", "편리한 곳에 위치 되어져 있는"),
     ("highly regarded", "~을 중시하다, 존경받는"),
-    ("on duty", "근무 중인")
+    ("on duty", "근무 중인"),
 ]
 
 dat_4 = [
@@ -133,7 +133,7 @@ dat_4 = [
     ("in accordance with", "~에 따라서, 부합되게"),
     ("adhere to", "~을 고수하다, 지키다"),
     ("reserve the right to", "~할 권리가 있다(보유하다)"),
-    ("come up with", "제시하다, 떠올리다")
+    ("come up with", "제시하다, 떠올리다"),
 ]
 
 dat_5 = [
@@ -167,7 +167,7 @@ dat_5 = [
     ("conduct a survey", "설문 조사를 하다(시행하다)"),
     ("be responsible for", "~에 책임이 있다"),
     ("reach an agreement", "합의에 도달하다"),
-    ("refrain from", "~을 삼가다, 안 하다")
+    ("refrain from", "~을 삼가다, 안 하다"),
 ]
 
 dat_6 = [
@@ -201,7 +201,7 @@ dat_6 = [
     ("delay", "미루다, 지연시키다"),
     ("look for", "찾다"),
     ("volunteer for", "~에 지원하다"),
-    ("be willing to", "기꺼이 ~하다, 흔쾌히 ~하다")
+    ("be willing to", "기꺼이 ~하다, 흔쾌히 ~하다"),
 ]
 
 dat_7 = [
@@ -235,7 +235,7 @@ dat_7 = [
     ("come with", "뭔가가 딸려 있다"),
     ("out of order", "고장 난"),
     ("be vulnerable to", "~에 영향을 받기 쉽다, 취약하다"),
-    ("in light of", "무엇을 고려하여, 어디에 비추어")
+    ("in light of", "무엇을 고려하여, 어디에 비추어"),
 ]
 
 dat_8 = [
@@ -269,7 +269,7 @@ dat_8 = [
     ("make up for", "손실 따위를 보상하다, 보전하다"),
     ("go over", "조사하다, 검토하다"),
     ("participate in", "어디어디에 참여하다"),
-    ("take into account", "무엇을 고려하다")
+    ("take into account", "무엇을 고려하다"),
 ]
 
 dat_9 = [
@@ -303,7 +303,7 @@ dat_9 = [
     ("let A know B", "A에게 B를 알게 하다"),
     ("unless otherwise", "달리 언급이 없다면, 달리 뭐뭐하지 않는다면"),
     ("as to / as for", "어디어디에 관해 말하면, 어디어디에 관해서라면"),
-    ("behind schedule", "일정에 뒤처지다")
+    ("behind schedule", "일정에 뒤처지다"),
 ]
 
 dat_10 = [
@@ -337,7 +337,7 @@ dat_10 = [
     ("under construction", "공사 중인, 건설 중인"),
     ("under pressure", "압력 하에, 부담을 가지고"),
     ("on time", "정각에, 시간을 어기지 않고"),
-    ("newly hired", "신규로 채용된")
+    ("newly hired", "신규로 채용된"),
 ]
 
 dat_11 = [
@@ -371,7 +371,7 @@ dat_11 = [
     ("deal with", "~에 대처하다, 대응하다"),
     ("stop by", "가는 길에 들르다, 방문하다"),
     ("concentrate on", "~에 집중하다"),
-    ("mutually beneficial", "상호 이익이 되는")
+    ("mutually beneficial", "상호 이익이 되는"),
 ]
 
 dat_12 = [
@@ -405,7 +405,7 @@ dat_12 = [
     ("conduct a survey", "여론 조사를 하다"),
     ("be valid for", "~동안 유효하다, 타당하다"),
     ("be similar to", "~와 비슷하다"),
-    ("be aware that", "~라는 것을 알다, 인지하다")
+    ("be aware that", "~라는 것을 알다, 인지하다"),
 ]
 
 dat_13 = [
@@ -439,7 +439,7 @@ dat_13 = [
     ("run short of", "~이 부족하다"),
     ("be equipped with", "~을 갖추다"),
     ("in observance of", "~을 준수하여"),
-    ("on purpose", "고의로")
+    ("on purpose", "고의로"),
 ]
 
 dat_14 = [
@@ -473,7 +473,7 @@ dat_14 = [
     ("under pressure", "압력 하에, 부담을 가지고"),
     ("with ease", "쉽게"),
     ("apologize for", "~에 대해 사과하다"),
-    ("lay off", "해고하다")
+    ("lay off", "해고하다"),
 ]
 
 dat_15 = [
@@ -507,7 +507,7 @@ dat_15 = [
     ("proximity to", "~에 대한 근접성"),
     ("in duplicate", "두 통으로 (복사하여)"),
     ("account for", "설명하다, 처리하다(차지하다)"),
-    ("be aware of", "~을 알다, 인지하다")
+    ("be aware of", "~을 알다, 인지하다"),
 ]
 
 dat_16 = [
@@ -541,7 +541,7 @@ dat_16 = [
     ("sufficient in supply", "공급 물량이 넉넉하다"),
     ("pending decision", "미결 결정, 보류된 문제"),
     ("dramatically increase", "극적으로 증가하다"),
-    ("gradual decline", "점차적으로 저하하다(하락하다)")
+    ("gradual decline", "점차적으로 저하하다(하락하다)"),
 ]
 
 dat_17 = [
@@ -575,7 +575,7 @@ dat_17 = [
     ("depend on", "~에 의존하다"),
     ("lead to", "~로 이어지다"),
     ("inform A of B", "A에게 B에 대해서 알리다"),
-    ("name A to B", "A를 B로 임명하다")
+    ("name A to B", "A를 B로 임명하다"),
 ]
 
 dat_18 = [
@@ -609,7 +609,7 @@ dat_18 = [
     ("be aimed at", "~을 목표로 삼다"),
     ("last-minute change", "막바지 변경 (마지막 순간에)"),
     ("extensive knowledge", "해박한 지식, 광범위한 지식"),
-    ("confidential document", "기밀 서류")
+    ("confidential document", "기밀 서류"),
 ]
 
 dat_19 = [
@@ -643,7 +643,7 @@ dat_19 = [
     ("demanding supervisor", "까다로운 상사"),
     ("have technical problems", "기술적인 문제가 있다"),
     ("as mentioned earlier", "앞에서 말한 바와 같이 (토론했듯이)"),
-    ("be filled with", "~로 가득 차다")
+    ("be filled with", "~로 가득 차다"),
 ]
 
 dat_20 = [
@@ -677,7 +677,7 @@ dat_20 = [
     ("miss a deadline", "기한을 놓치다"),
     ("attract qualified applicants", "자격을 갖춘 지원자를 유치하다"),
     ("for a limited time only", "한정된 기간 동안만"),
-    ("on installment", "할부로")
+    ("on installment", "할부로"),
 ]
 
 dat_21 = [
@@ -711,7 +711,7 @@ dat_21 = [
     ("monitor financial performance", "재무 성과를 모니터링하다"),
     ("resolve conflict", "갈등을 해결하다"),
     ("remove excessive use", "과도한 사용을 제거하다"),
-    ("provide supplementary handouts", "보충 유인물을 제공하다")
+    ("provide supplementary handouts", "보충 유인물을 제공하다"),
 ]
 
 dat_22 = [
@@ -745,7 +745,7 @@ dat_22 = [
     ("expand product lines", "제품 라인을 확장하다"),
     ("maximize profit", "수익을 극대화하다"),
     ("target specific demographic", "특정 인구 통계를 타겟으로 하다"),
-    ("reliable service", "신뢰할 만한 서비스")
+    ("reliable service", "신뢰할 만한 서비스"),
 ]
 
 dat_23 = [
@@ -779,7 +779,7 @@ dat_23 = [
     ("industry standard", "업계 표준"),
     ("call off", "취소하다"),
     ("run a business", "회사를 운영하다"),
-    ("launch a product", "제품을 출시하다(시작하다)")
+    ("launch a product", "제품을 출시하다(시작하다)"),
 ]
 
 dat_24 = [
@@ -813,7 +813,7 @@ dat_24 = [
     ("regularly update", "정기적으로 업데이트 하다"),
     ("precisely calculate", "정밀하게 계산하다"),
     ("easily accessible", "쉽게 접근이 가능한"),
-    ("widely recognized", "널리 인정받는")
+    ("widely recognized", "널리 인정받는"),
 ]
 
 dat_25 = [
@@ -847,7 +847,7 @@ dat_25 = [
     ("unanimously agree", "만장일치로 동의하다"),
     ("adjust accordingly", "그에 따라 조정하다"),
     ("actively participate in", "적극적으로 참여하다"),
-    ("professionally develop", "전문적으로 개발하다")
+    ("professionally develop", "전문적으로 개발하다"),
 ]
 
 dat_26 = [
@@ -881,7 +881,7 @@ dat_26 = [
     ("receive a discount on", "~에 대해서 할인을 받다"),
     ("inclement weather", "악천후 (폭우나 폭설)"),
     ("additional fees", "추가 요금, 추가 비용"),
-    ("be closely associated with", "~와 밀접하게 관련이 있다")
+    ("be closely associated with", "~와 밀접하게 관련이 있다"),
 ]
 
 dat_27 = [
@@ -915,7 +915,7 @@ dat_27 = [
     ("tight regulations", "강경한 규제, 엄격한 규칙"),
     ("specialize in", "~을 전문으로 하다"),
     ("designed for", "~을 위해 고안되다"),
-    ("be on vacation", "휴가 중이다")
+    ("be on vacation", "휴가 중이다"),
 ]
 
 dat_28 = [
@@ -949,7 +949,7 @@ dat_28 = [
     ("in particular", "특히, 특별히"),
     ("under control", "통제되는, 지배되는"),
     ("raise awareness", "인식을 고취시키다"),
-    ("take the opportunity", "기회를 잡다")
+    ("take the opportunity", "기회를 잡다"),
 ]
 
 dat_29 = [
@@ -983,7 +983,7 @@ dat_29 = [
     ("yet to do", "아직 ~하지 않았다"),
     ("by the way", "그런데, 한편"),
     ("hold a festival", "축제를 개최하다"),
-    ("take place", "발생하다")
+    ("take place", "발생하다"),
 ]
 
 dat_30 = [
@@ -1017,5 +1017,5 @@ dat_30 = [
     ("figure out", "이해하다"),
     ("give it a thought", "생각해 보다"),
     ("up and running", "작동 중인"),
-    ("cut down on", "~을 줄이다")
+    ("cut down on", "~을 줄이다"),
 ]
