@@ -32,7 +32,7 @@ st.sidebar.divider()
 st.sidebar.caption("파이썬과 Streamlit으로 제작되었습니다. 🚀")
 
 # 4. 메인 화면 구성
-st.title(f"📖 {selected_day} 학습하기")
+st.title(f"{selected_day} 학습하기")
 st.markdown("매일매일 꾸준히 반복해서 학습해 보세요!")
 
 # 선택된 일차의 데이터 가져오기
