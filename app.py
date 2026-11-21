@@ -16,6 +16,16 @@ st.markdown(
     .word-table th { text-align: left; }
     .word-table td:nth-child(3) { font-size: 0.7rem; }
 
+    .st-key-day_nav.stVerticalBlock {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+        align-items: center;
+        gap: 0.25rem;
+    }
+
+    .st-key-day_nav > :first-child { justify-self: start; }
+    .st-key-day_nav > :last-child { justify-self: end; }
+
     .flashcard-wrap { margin-top: 2px; }
     div[data-testid='stExpander'] div { padding-top: 0 !important; }
 
@@ -161,12 +171,7 @@ def next_day():
         st.session_state.day_state += 1
 
 
-with st.container(
-    horizontal=True,
-    horizontal_alignment="distribute",
-    vertical_alignment="center",
-    wrap=False,
-):
+with st.container(key="day_nav"):
     st.button("◀ 이전", on_click=prev_day, disabled=(day == 1), key="prev")
     st.markdown(f"**{selected_day}**", width="content")
     st.button("다음 ▶", on_click=next_day, disabled=(day == 30), key="next")
