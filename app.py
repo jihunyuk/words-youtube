@@ -160,6 +160,7 @@ def next_day():
     if st.session_state.day_state < 30:
         st.session_state.day_state += 1
 
-# simplest navigation (may stack vertically on mobile)
-st.button("◀ 이전", on_click=prev_day, disabled=(day == 1), key="prev")
-st.button("다음 ▶", on_click=next_day, disabled=(day == 30), key="next")
+
+with st.container(horizontal=True, horizontal_alignment="distribute", wrap=False):
+    st.button("◀ 이전", on_click=prev_day, disabled=(day == 1), key="prev")
+    st.button("다음 ▶", on_click=next_day, disabled=(day == 30), key="next")
