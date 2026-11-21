@@ -161,6 +161,12 @@ def next_day():
         st.session_state.day_state += 1
 
 
-with st.container(horizontal=True, horizontal_alignment="distribute", wrap=False):
+with st.container(
+    horizontal=True,
+    horizontal_alignment="distribute",
+    vertical_alignment="center",
+    wrap=False,
+):
     st.button("◀ 이전", on_click=prev_day, disabled=(day == 1), key="prev")
+    st.markdown(f"**{selected_day}**", width="content")
     st.button("다음 ▶", on_click=next_day, disabled=(day == 30), key="next")
